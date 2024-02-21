@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/product-preview-card-html-and-css-Fj8tbiUt2k
+- Solution URL: https://www.frontendmentor.io/solutions/huddle-landing-page-with-single-introductory-section-html-and-css-3cD6Hd01PM
 - Live Site URL: https://fm-huddle-landing-page-with-single-in.netlify.app/
 
 ### Built with
